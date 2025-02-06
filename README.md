@@ -26,14 +26,6 @@ Built and deployed from the ground up, emphasizing intuitive UI and seamless per
 
 # [eTracksys QHSE](https://apps.apple.com/in/app/e-tracksys-qhse/id6460692225)
 
-
-
-<p align="center">
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/e619a6ce-7e2b-4c45-b84f-d6f4f64eb243, width="200", height="355"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/fd6932ea-17c7-46aa-8ac4-49b07d058bec", width="200",height="300" />
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/9153668b-4641-4e87-80d1-8828ec8d135c", width="200", height="300"/>
-</p>
-
 **Tech Used**
 - Swift
 - Core Data
@@ -45,15 +37,6 @@ Built and deployed from the ground up, emphasizing intuitive UI and seamless per
 
 # [TAR Systen](https://apps.apple.com/in/app/tar-system/id6448125946)
 
-
-<p align="center">
- <img src="https://github.com/Dhanabal505/portfolio/assets/60137594/ab868dfc-910d-407f-8bbe-ecd0a59acc3c", width="200"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/142c72ae-ffa2-4759-9c47-fc6d65d91316", width="200"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
-</p>
-
-
-**Tech Used**
 - Swift
 - Core NFC
 - Location Access
