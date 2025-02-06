@@ -3,7 +3,7 @@
 
 
  
-### 👋 Hi! I'm a iOS Senior Developer with 4.8 years of experience in Swift, specializing in creating high-performance mobile applications.
+### 👋 Hi! I'm a iOS Senior Developer with 5.2 years of experience in Swift, specializing in creating high-performance mobile applications.
 
  # [CirclDot](https://apps.apple.com/in/app/circldot/id1606673165)
 Freshly introduced, the CirclDot App is a new form of communication for this digital generation. The digital business card is the fastest, easiest way to share your info allowing you to instantly share your contact info, social media, files, videos, and more with just a tap of your CirclDot device or scan of your QR code. The best part, the other person doesn't need an app or a CirclDot to receive your info. The app also supports both Light mode and Dark mode for an optimal user experience
