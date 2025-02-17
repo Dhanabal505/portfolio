@@ -25,6 +25,15 @@ Built and deployed from the ground up, emphasizing intuitive UI and seamless per
 - REST API's
 
 # [eTracksys QHSE](https://apps.apple.com/in/app/e-tracksys-qhse/id6460692225)
+The HSE Risk QUEST App enables quick incident reporting with essential details. HSE Tracking People tracks operator locations in real time using various technologies. The HSE Non-Conformance Video Analytics system detects safety breaches like PPE violations and fire hazards. HSE Incident Reporting Tools provide advanced analytics to identify trends and improve safety.
+
+Designed and developed from scratch, focusing on user-friendly UI and smooth functionality. Led the Apple App Store submission process, ensuring a successful launch along with continuous updates, bug fixes, and new feature rollouts.
+
+<p align="left">
+<img src="https://github.com/Dhanabal505/portfolio/assets/60137594/485f3a86-5be3-4ad8-9d3c-1614f948cd0a", width="200"/>
+<img src="https://github.com/Dhanabal505/portfolio/assets/60137594/86fa198d-d328-4808-9bd8-ed074efba5aa", width="200"/>
+<img src="https://github.com/Dhanabal505/portfolio/assets/60137594/669a9d8c-fccf-4d4c-9375-4b9ef897908e", width="200"/>
+</p>
 
 **Tech Used**
 - Swift
